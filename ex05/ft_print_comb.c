@@ -29,7 +29,6 @@ void ft_print_comb(void)
 		}
         a++;
     }
-    
 }
 
 int main()
